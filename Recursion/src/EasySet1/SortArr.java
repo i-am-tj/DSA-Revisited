@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class SortArr {
 
     public static void insert(List<Integer> l, int k) {
-        if(l.size()==0 || l.getLast() < k) {
+        if(l.isEmpty() || l.getLast() < k) {
             l.add(k);
             return;
         }
