@@ -42,6 +42,6 @@
 4. Write a recursive function to generate all unique subsequences of given string.
 5. Write a recursive function to generate all permutation with spaces.
 6. Write a recursive function to generate all permutation with case change.
-6. Write a recursive function to perform merge sort on an array.
-7. Write a recursive function to count the number of ways to climb n stairs, where you can take 1 or 2 steps at a time.
-8. Write a recursive function to print all combinations of balanced parentheses for n pairs.
+7. Write a recursive function to perform merge sort on an array.
+8. Write a recursive function to count the number of ways to climb n stairs, where you can take 1 or 2 steps at a time.
+9. Write a recursive function to print all combinations of balanced parentheses for n pairs.
