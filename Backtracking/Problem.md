@@ -45,31 +45,31 @@ These problems involve finding paths in grids or mazes, often with obstacles.
 2. Find All Paths in a Grid (without obstacles)
 
 **Medium**:
-1.	Word Search in a 2D Grid 
+1. Word Search in a 2D Grid 
 2. Find All Paths in a Grid (with obstacles)
-3.	Rat in a Maze with Multiple Destinations
+3. Rat in a Maze with Multiple Destinations
 
 **Hard**:
-1.	Knight’s Tour Problem 
-2. Rat in a Maze with k Jumps Allowed
-3.	Word Search II (multiple words in a grid)
+1. Knight’s Tour Problem 
+2. Rat in a Maze with k Jumps Allowed 
+3. Word Search II (multiple words in a grid)
 
 ## 4. Puzzles and Games
 
 These problems are more complex and often involve solving puzzles or game-related challenges.
 
 **Medium**:
-1.	N-Queens Problem 
-2. Sudoku Solver
-3.	Generate All Possible Expressions from Digits
-4.	Restore IP Addresses
+1. N-Queens Problem 
+2. Sudoku Solver 
+3. Generate All Possible Expressions from Digits 
+4. Restore IP Addresses
 
 **Hard**:
-1.	Solve the Magic Square Problem 
-2. Tiling Problem with Tetris-like Pieces
-3.	N-Queens on a Rectangular Board
-4.	Generalized N-Queens (with arbitrary constraints)
-5.	Solve the Subset Sum Problem with Multiple Constraints
+1. Solve the Magic Square Problem 
+2. Tiling Problem with Tetris-like Pieces 
+3. N-Queens on a Rectangular Board 
+4. Generalized N-Queens (with arbitrary constraints)
+5. Solve the Subset Sum Problem with Multiple Constraints
 
 ## 5. Palindromes and Partitions
 
