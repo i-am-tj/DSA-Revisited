@@ -45,3 +45,5 @@
 7. Write a recursive function to perform merge sort on an array.
 8. Write a recursive function to count the number of ways to climb n stairs, where you can take 1 or 2 steps at a time.
 9. Write a recursive function to print all combinations of balanced parentheses for n pairs.
+10. Write a recursive function to print N-bit binary numbers having more 1’s than 0’s for any prefix.
+11. Write a recursive function to solve Josephus Problem.
