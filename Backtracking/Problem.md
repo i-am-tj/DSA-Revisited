@@ -2,11 +2,9 @@
 These problems involve generating various combinations or subsets of elements.
 
 **Easy:**
-1. Generate All Subsets of a Set (Power Set)
-2. Generate All Subsets of an Array with Duplicates 
-3. Find All Subsets of a Set That Sum to a Target 
-4. Generate All Combinations of k Elements from n Elements 
-5. All Possible Combinations of k Numbers that Sum to n
+1. Generate All Subsets of an Array with Duplicates 
+2. Find All Subsets of a Set That Sum to a Target 
+3. All Possible Combinations of k Numbers that Sum to n
 
 **Medium**:
 1. Combination Sum I (without duplicates)
@@ -24,8 +22,7 @@ These problems involve generating various combinations or subsets of elements.
 These problems focus on generating all possible permutations of elements.
 
 **Easy**:
-1. Generate All Permutations of a String 
-2. All Possible Binary Strings of Length n
+1. Generate All Permutations of a String
 
 **Medium**:
 1. Generate All Possible k-Permutations of n Elements 
@@ -33,8 +30,18 @@ These problems focus on generating all possible permutations of elements.
 3. Print All Possible Schedules for Multiple Events
 
 **Hard**:
-1. Generalized Hamiltonian Cycle Problem 
-2. Generate All k-Permutations with Constraints
+1. Generalized Hamiltonian Cycle Problem.
+   1. Hamiltonian Path Problem: Find a path that visits each vertex exactly once (does not necessarily return to the starting vertex).
+   2. Hamiltonian Path with Constraints: Find a Hamiltonian path where some edges or vertices are constrained.
+   3. Hamiltonian Cycle with Additional Constraints: Find a Hamiltonian cycle in a graph with additional constraints, such as:
+      1. Specific vertices that must be included. 
+      2. Additional weights or costs on edges. 
+      3. Constraints on the cycle length or structure.
+   4. Hamiltonian Cycle in Special Graphs: Finding Hamiltonian cycles in special types of graphs, such as bipartite graphs, planar graphs, or graphs with specific degree sequences.
+2. Generate All k-Permutations with constraints 
+   1. Constraints on Element Position: Specific elements must be in certain positions. 
+   2. Constraints on Adjacent Elements: Certain elements cannot be adjacent to each other. 
+   3. Constraints on Element Count: Each element must appear a specific number of times.
 
 ## 3. Pathfinding in Grids and Mazes
 
