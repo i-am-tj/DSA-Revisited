@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class DecToBin {
 
-    public static String decToBin(int n, String bin) {
+    public static String decToBin(int n) {
         if(n == 1) return "1";
-        return decToBin(n/2, bin) + "" + (n % 2);
+        return decToBin(n/2) + "" + (n % 2);
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        System.out.println(decToBin(n, ""));
+        System.out.println(decToBin(n));
     }
 }
